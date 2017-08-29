@@ -1,0 +1,24 @@
+body {
+	background: green;
+	text-align: center;
+	color: #270042;
+}
+
+p a {
+	color: blue;
+	font-family: "Courier"
+}
+
+a {
+	color:red;
+}
+
+p.negrito {
+
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#destaque {
+	text-decoration:  none;
+}
